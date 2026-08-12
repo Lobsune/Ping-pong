@@ -1,6 +1,6 @@
 from pygame import *
 '''Clases requeridas'''
-
+# abc
 #clase principal para sprites
 class GameSprite(sprite.Sprite):
     #constructor de clases
